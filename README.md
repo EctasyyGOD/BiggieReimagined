@@ -1,7 +1,6 @@
 # BiggieReimagined
 mushmc focused client. do not expect super duper bypasses.
 
-Info
 Yet another raven fork, but ok. trying to improve this client, lel
 
 Contact
